@@ -1,4 +1,3 @@
-# android-interview-Ron
 ## Tech challenge for Ron
 
 We would like you to build an app with two screens. The first with three vertically stacked carousel-like components, and the second with a view of your choice. 
